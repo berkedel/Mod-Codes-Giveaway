@@ -15,7 +15,7 @@ public int SkillLevel
 	{
 		get
 		{
-			if (Team.Black1)
+			if (ModMenu.hack1)
 			{
 				return this.m_nSkillLevel + 99;
 			}
@@ -45,7 +45,7 @@ public int SkillLevel
 			return 0f;
 		}
 		// Mod here //
-		if (Team.Black2)
+		if (ModMenu.hack2)
 		{
 			return this.GetCooltime() - this.GetCooltime();
 		}
