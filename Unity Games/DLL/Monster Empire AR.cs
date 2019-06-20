@@ -5,7 +5,7 @@
 //Class: UIManager
 public void OnGUI()
 {
-	ModMenu.ButtonMenu();
+	ModMenu.OnGUI();
 }
 
 //Class: BaseObject
