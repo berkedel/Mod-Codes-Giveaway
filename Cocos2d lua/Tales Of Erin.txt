@@ -4,7 +4,7 @@
 
 -----------------------------
 
-Dump enemy mod
+Dumb enemy mod
 
 BaseCard::MonsterMoveAI(void)
 _ZN8BaseCard13MonsterMoveAIEv 
